@@ -6,4 +6,4 @@ The Satement for the Backend Logic is: 'IF THERE ARE MULTIPLE AREAS GIVING INPUT
 
 # Installtion
 Follow the all process of installing Flutter SDK mentioned in Official Docs: https://docs.flutter.dev/
-The use the main.dart code provided in the repo.
+then use the main.dart code provided in the repo.
